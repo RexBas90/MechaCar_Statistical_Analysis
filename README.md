@@ -63,17 +63,25 @@ Ha : There is a statistical difference between the observed sample mean and its 
 
 ![All Lots Versus Population](analysis/AllLotsVPop.PNG)
 
+**Figure 5: Test 1**
+
 After performing a one sample t-test, the p-value is 0.068 which is larger than the significant value of 0.05. There is insufficient evidence to reject the null hypothesis, meaning there is no statistical difference between the mean PSI from all the lots and the population mean. 
 
 ![Lot 1 Versus Population](analysis/Lot1VPop.PNG)
+
+**Figure 6: Test 2**
 
 After performing a one sample t-test, the p-value is 1 which is larger than the significant value of 0.05. There is insufficient evidence to reject the null hypothesis, meaning there is no statistical difference between the mean PSI from Lot 1 and the population mean. 
 
 ![Lot 2 Versus Population](analysis/Lot2VPop.PNG)
 
+**Figure 7: Test 3**
+
 After performing a one sample t-test, the p-value is 0.61 which is larger than the significant value of 0.05. There is insufficient evidence to reject the null hypothesis, meaning there is no statistical difference between the mean PSI from Lot 2 and the population mean. 
 
 ![Lot 3 Versus Population](analysis/Lot3VPop.PNG)
+
+**Figure 8: Test 4**
 
 After performing a one sample t-test, the p-value is 0.042 which is smaller than the significant value of 0.05. There is sufficient evidence to reject the null hypothesis, meaning there is a statistical difference between the mean PSI from Lot 3 and the population mean. 
 
