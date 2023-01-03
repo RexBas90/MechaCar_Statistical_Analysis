@@ -3,8 +3,10 @@
 ## Linear Regression to Predict MPG
 
 ![Multiple Linear Regression Model](analysis/Multiple_Linear_Regression_Model.PNG)
+Figure 1: Multiple Linear Regression Model
 
 ![Multiple Linear Regression Model Summary Statistics](analysis/MLRModel_Summary.PNG)
+Figure 2: Multiple Linear Regression Model Summary Statistics
 
 1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -29,6 +31,7 @@ From the Multiple Linear Regression Model Summary Statistics, the r-squared valu
 ## Summary Statistics on Suspension Coils
 
 ![Total Summary](analysis/total_summary.PNG)
+Total Summary
 
 ![Lot Summary](analysis/lot_summary.PNG)
 
@@ -38,13 +41,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## T-Tests on Suspension Coils
 
 Four t-tests were performed: 
-    1) Test if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
-    2) Test if the PSI from Lot 1 is statistically different from the population mean of 1,500 pounds per square inch.
+    1. Test if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
-    3) Test if the PSI from Lot 2 is statistically different from the population mean of 1,500 pounds per square inch.
+    2. Test if the PSI from Lot 1 is statistically different from the population mean of 1,500 pounds per square inch.
 
-    4) Test if the PSI from Lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
+    3. Test if the PSI from Lot 2 is statistically different from the population mean of 1,500 pounds per square inch.
+
+    4. Test if the PSI from Lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
 
 In all tests a significance value of 0.05 was used and the null and alternative hypothesis were as follows: 
 
